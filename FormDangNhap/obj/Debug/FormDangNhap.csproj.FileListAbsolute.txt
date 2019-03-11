@@ -1,0 +1,11 @@
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.exe.config
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.exe
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.pdb
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csprojAssemblyReference.cache
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Properties.Resources.resources
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.GenerateResource.cache
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.exe
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.pdb
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.frmDangNhap.resources
+C:\Users\Nguyen Du\Downloads\Study\UEH\Phát triển ứng dụng Windows\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.frmDoiMatKhau.resources
